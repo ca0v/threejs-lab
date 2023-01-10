@@ -1,5 +1,6 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/picocss/1.5.2/pico.min.css);
 
 * {
-  ---cube-color:rgb(33, 103, 107);
+  ---cube-color:hsl(183, 53%, 27%);
+  ---cube-line-color:hsl(83, 53%, 27%);
 }
